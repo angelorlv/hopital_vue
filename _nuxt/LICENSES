@@ -17,22 +17,6 @@
  */
 
 
-/* @preserve
-   * Leaflet Control Geocoder
-   * https://github.com/perliedman/leaflet-control-geocoder
-   *
-   * Copyright (c) 2012 sa3m (https://github.com/sa3m)
-   * Copyright (c) 2018 Per Liedman
-   * All rights reserved.
-   */
-
-
-/* @preserve
- * Leaflet 1.8.0, a JS library for interactive maps. https://leafletjs.com
- * (c) 2010-2022 Vladimir Agafonkin, (c) 2010-2011 CloudMade
- */
-
-
 /*!
  * @overview es6-promise - a tiny implementation of Promises/A+.
  * @copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)
@@ -170,3 +154,19 @@
    * 
    * ====================================================================
    */
+
+
+/* @preserve
+   * Leaflet Control Geocoder
+   * https://github.com/perliedman/leaflet-control-geocoder
+   *
+   * Copyright (c) 2012 sa3m (https://github.com/sa3m)
+   * Copyright (c) 2018 Per Liedman
+   * All rights reserved.
+   */
+
+
+/* @preserve
+ * Leaflet 1.8.0, a JS library for interactive maps. https://leafletjs.com
+ * (c) 2010-2022 Vladimir Agafonkin, (c) 2010-2011 CloudMade
+ */
